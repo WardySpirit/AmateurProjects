@@ -18,7 +18,7 @@
 
 o FanaticGetter tem como propósito dar ao usuario do website StackOverflow a chance de ganhar 2 medalhas:
 
-• Enthusiast - Prata - Visite o site todos os dias por 30 dias consecutivos.
+• Enthusiast - Prata - Visite o site todos os dias por 30 dias consecutivos.<br>
 • Fanatic - Ouro -  Visite o site todos os dias por 100 dias consecutivos.
 
 Sendo o StackOverflow um gigantesco website de Perguntas e Respostas (QA) envolvendo inúmeros profissionais a respeito da area da programação, inumeras pessoas que procuram por emprego nessa área constumam inserir os seus perfis do mesmo para adicionar maior credibilidade ao currículo. Empresas que valorizam sites como esses tendem a dar maior disponibilidade a aqueles que possuem um perfil com maior reputação, na qual inclue tantos os pontos, quanto é claro, as medalhas.

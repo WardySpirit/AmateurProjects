@@ -58,7 +58,7 @@ Para manter tudo ainda mais facil, também esta disponível o arquivo Batch `Sta
 
 1. Baixe todos os arquivos inclusos nesse diretório juntos em qualquer lugar do Windows de sua preferencia.
 
-2.Faça o download do `geckodriver.exe` manualmente [aqui](https://github.com/mozilla/geckodriver/releases) e o insira na mesma pasta que os outros arquivos.
+2. Faça o download do `geckodriver.exe` manualmente [aqui](https://github.com/mozilla/geckodriver/releases) e o insira na mesma pasta que os outros arquivos.
 
 3. Para que o programa faça o login em sua conta durante o navegador remoto do Firefox, abra o arquivo `fanaticGetter.pyw` em um editor de texto de sua preferencia e edite as variaveis `email` e `password` para o seu e-mail e senha da sua conta do StackOverflow.
 

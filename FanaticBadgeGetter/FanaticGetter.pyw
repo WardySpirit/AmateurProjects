@@ -32,7 +32,7 @@ alreadyGet = True
 
 # os sleeps garantem que algumas funcionalidades como a internet e a pagina carregada 
 # estejam estaveis antes de prosseguir, voce pode remove-las se achar melhor
-time.sleep(10)
+time.sleep(3)
 
 driver = webdriver.Firefox()
 

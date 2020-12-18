@@ -43,7 +43,7 @@ O FanaticGetter trabalha puramente com *Python* e em posse do módulo `Selenium`
 
 4. Por fim, o script acessa a sua lista de Medalhas para contar o seu progresso da medalha `Fanatic` e então fecha o navegador sozinho.
 
-O processo todo demora em media 15 segundos para completar.
+O processo todo demora em media 8 segundos para completar.
 
 O script tambem toma a liberdade de trabalhar com o módulo `plyer`, que contem a função capaz de enviar notificacoes do windows para o usuario, tornando muito mais facil relatar o progresso e qualquer problema sem a necessidade de manter o codigo aberto em um terminal.
 

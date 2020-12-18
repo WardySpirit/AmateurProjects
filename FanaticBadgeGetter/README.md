@@ -68,17 +68,23 @@ Para manter tudo ainda mais facil, também esta disponível o arquivo Batch `Sta
 
 A partir daí, o FanaticGetter ja está setado para ser executado sempre que o computador inicializar.
 
+<hr>
+
 # Porque o uso do Geckodriver
 
 Para que o programa funcione, é utilizado a biblioteca *Selenium*, na qual trabalha com a navegação remota de um navegador especifico, controlando-o em vez do ser humano. Mas para que isso seja capaz, a biblioteca passa a ser dependente de um driver especifico para cada navegador para que ela consiga estabelecer tal conexao remota, no caso do Firefox, utilizamos o *Geckodriver*.
 
 Para saber mais a respeito de sua utilização, acesse [O que é o GeckoDriver](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/#What_is_GeckoDriver).
 
+<hr>
+
 # Depois de concluir a medalha
 
 Após a conclusão da medalha, as notificações dadas pelo programa comecação a avisar que a sua medalha enfim foi concluída, e que não é mais necessário utiliza-lo para tal função. Com isso, está na hora de fazer com que o programa pare de ser executado a cada inicialização
 
 Pra fazer isso, existem duas formas, a forma mais pratica porém não aconselhavel é apenas deletar o diretório e os arquivos, ou então a forma mais pratica seria remove-lo da inicialização. Para isso, basta apertar `Windows + R`, digitar `shell:startup` e excluir o atalho `FanaticStartup`.
+
+<hr>
 
 # Problemas com o ReCaptcha
 

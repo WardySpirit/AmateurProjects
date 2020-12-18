@@ -53,7 +53,7 @@ Para manter tudo ainda mais facil, também esta disponível o arquivo Batch `Sta
 
 # Como usar o FanaticGetter
 
-### AVISO: esse script só funciona com *Firefox*, é preciso ter esse navegador instalado em sua maquina para prosseguir (https://www.mozilla.org/pt-BR/firefox/new/)
+### AVISO: esse script só funciona com *Firefox*, é preciso ter esse navegador instalado em sua maquina para prosseguir [aqui](https://www.mozilla.org/pt-BR/firefox/new/)
 
 
 1. Baixe todos os arquivos inclusos nesse diretório juntos em qualquer lugar do Windows de sua preferencia.

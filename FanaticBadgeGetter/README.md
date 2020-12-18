@@ -74,12 +74,12 @@ Para que o programa funcione, é utilizado a biblioteca *Selenium*, na qual trab
 
 Para saber mais a respeito de sua utilização, acesse [O que é o GeckoDriver](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/#What_is_GeckoDriver).
 
-* Depois de concluir a medalha
+# Depois de concluir a medalha
 
 Após a conclusão da medalha, as notificações dadas pelo programa comecação a avisar que a sua medalha enfim foi concluída, e que não é mais necessário utiliza-lo para tal função. Com isso, está na hora de fazer com que o programa pare de ser executado a cada inicialização
 
 Pra fazer isso, existem duas formas, a forma mais pratica porém não aconselhavel é apenas deletar o diretório e os arquivos, ou então a forma mais pratica seria remove-lo da inicialização. Para isso, basta apertar `Windows + R`, digitar `shell:startup` e excluir o atalho `FanaticStartup`.
 
-* Problemas com o ReCaptcha
+# Problemas com o ReCaptcha
 
 Apesar de o executável ter a capacidade de originar delays durante a execução remota para que o site não possa detectar tal movimento, em casos extremamente raros ainda á a possibilidade do StackOverflow suspeitar de que um bot esteja o acessando, com isso ele impedirá que voce prossiga até que resolva um ReCaptcha. Caso isso aconteca, não se preocupe, o programa avisará você que algo deu errado e você apenas precisará resolver o Captcha para continuar normalmente com a conta e com o programa.
